@@ -1,11 +1,9 @@
 ---
-title: "test-PD_website"
+title: "Postdoc Network"
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+Welcome to the ASA Postdoc Network (Tentative names). 🤗\
+\
+Thank you for your patience. The website is currently under 🚧 maintenance 🚧.\
+\
+Please check back soon!
