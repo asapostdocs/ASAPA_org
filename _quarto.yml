@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "test-PD_website"
+  title: "Postdoc Network"
   navbar:
     left:
       - href: index.qmd
