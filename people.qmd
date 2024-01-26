@@ -1,0 +1,15 @@
+---
+title: "Executive Committee"
+format:
+    html:
+        toc: true
+        toc-depth: 3
+---
+
+| <img width=100/> Name | <img width=400/> Research topic | <img width=200/> Photo |
+| :--- | :---- | :--- |
+| [A](https://publichealth.jhu.edu/departments/biostatistics/people/students/scm-student-profiles) | ScM student in [Biostatistics](https://publichealth.jhu.edu/departments/biostatistics) using multi-omics data to understand high-grade serous ovarian cancer with unsupervised methods. | <img width="200" src="images/tmplate.png"> |
+| [A](google.com) | Postdoctoral Fellow in [Biostatistics](https://publichealth.jhu.edu/departments/biostatistics) xxx. | <img width="200" src="images/tmplate.png">|
+| [B](https://publichealth.jhu.edu/departments/biostatistics/people/students/scm-student-profiles) | Postdoctoral Fellow in [Biostatistics](https://publichealth.jhu.edu/departments/biostatistics) xxx. | <img width="200" src="images/tmplate.png">|
+| [C](https://publichealth.jhu.edu/departments/biostatistics/people/students/scm-student-profiles) | Postdoctoral Fellow in [Biostatistics](https://publichealth.jhu.edu/departments/biostatistics) xxx. | <img width="200" src="images/tmplate.png"> |
+

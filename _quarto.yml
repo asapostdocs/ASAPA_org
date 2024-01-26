@@ -3,12 +3,17 @@ project:
   output-dir: docs
 
 website:
-  title: "Postdoc Network"
+  title: "ASA Postdoc Association"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      # - about.qmd
+      - text: "About"
+        menu:
+        - text: "Vision"
+        - text: "Excutive Committee"
+          href: people.qmd
+      
 
 format:
   html:
