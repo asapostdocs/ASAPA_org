@@ -1,0 +1,23 @@
+---
+title: "Mission & Vision"
+---
+
+# Mission Statement
+
+At the American Statistical Association Postdoc Association (ASAPA), our mission is to foster a vibrant community that nurtures the personal and professional growth of postdoctoral fellows in the fields of statistics, biostatistics, and data science.
+
+Our organization is committed to providing a supportive platform where individuals can flourish intellectually, collaborate passionately, and develop into influential leaders in their respective disciplines. 
+
+# Core Values
+
+* __Community Engagement:__ We believe in the strength of a united community. We create opportunities for postdoctoral fellows to connect, share insights, and build lasting relationships that transcend geographical boundaries.
+* __Diversity and Inclusion:__ We celebrate the diverse backgrounds, perspectives, and experiences that enrich our field. Our organization actively fosters an inclusive environment that values and respects every individual's unique journey. 
+* __Professional Excellence:__ We strive for excellence in all professional endeavors. Through targeted career development resources, we equip our fellows to excel in academia, industry, and beyond.
+* __Professional Well-Being:__ We are dedicated to the holistic development of our members. We provide a platform that enhances not only their academic prowess but also their overall personal well-being. 
+
+
+# Goals
+
+* __Networking and Collaboration:__ Facilitate networking opportunities, both within and outside the organization, to encourage interdisciplinary collaborations and the exchange of ideas. Personal/Member Promotion: Showcase postdocs’ research, work, and life through informal structures, e.g. through Twitter/X. 
+* __Advocacy:__ Advocate for the recognition of postdoctoral community contributions, harmonize expectations, best practices, goals and needs within the broader scientific community 
+* __Skill Enhancement:__ Provide resources that enhance technical skills, soft skills, and career development, fostering well-rounded professionals. By adhering to these values, pursuing our goals, and nurturing a collaborative and supportive environment, the ASAPA aims to play a pivotal role in shaping the future of statistics, biostatistics, and data science by empowering and advancing the careers of our dedicated postdocs.

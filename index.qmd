@@ -2,8 +2,10 @@
 title: "ASA Postdoc Association"
 ---
 
-Welcome to the [American Statistics Association](<https://www.amstat.org/>) Postdoc Association (Tentative names). 🤗\
-\
-Thank you for your patience. The website is currently under 🚧 maintenance 🚧.\
-\
-Please check back soon!
+Welcome to the [American Statistics Association](<https://www.amstat.org/>) Postdoc Association. 🤗
+
+---
+
+We are committed to providing a supportive platform where individuals can flourish intellectually, collaborate passionately, and develop into influential leaders in their respective disciplines. Our [mission](vision.html) is to foster a vibrant community that nurtures the personal and professional growth of postdoctoral fellows in the fields of statistics, biostatistics, and data science. 
+
+---

@@ -8,11 +8,12 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - text: "About"
-        menu:
-        - text: "Vision"
-        - text: "Excutive Committee"
-          href: people.qmd
+      - text: "Mission & Vision"
+        href: vision.qmd
+      # - text: "About"
+        # menu:
+      - text: "Committee"
+        href: people.qmd
       
 
 format:
