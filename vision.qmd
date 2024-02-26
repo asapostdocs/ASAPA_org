@@ -1,8 +1,6 @@
----
-title: "Mission & Vision"
----
 
-# Mission Statement
+
+# Mission
 
 At the American Statistical Association Postdoc Association (ASAPA), our mission is to foster a vibrant community that nurtures the personal and professional growth of postdoctoral fellows in the fields of statistics, biostatistics, and data science.
 
