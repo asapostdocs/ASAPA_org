@@ -4,17 +4,35 @@ project:
 
 website:
   title: "ASA Postdoc Association"
+  favicon: "images/logo.png"
   navbar:
+    logo: "images/logo.png"
     left:
-      - href: index.qmd
-        text: Home
-      - text: "Mission & Goals"
+      - icon: house
+        text: "Home"
+        href: index.qmd
+      - icon: bullseye
+        text: "Missions"
         href: mission.qmd
       # - text: "About"
         # menu:
-      - text: "Committee"
+      - icon: people
+        text: "Committee"
         href: people.qmd
-      
+    right:
+      - icon: envelope-at-fill
+        text: "Email"
+        href: mailto:asapostdocs@gmail.com
+  page-footer:
+    background: light
+    center: |
+      Copyright © 2024 ASA Postdoc Association
+    left: |
+      Made with [Quarto](https://quarto.org/)
+    right: 
+      - icon: envelope-at-fill
+        # aria-label: "Email us"
+        href: mailto:asapostdocs@gmail.com
 
 format:
   html:

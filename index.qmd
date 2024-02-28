@@ -1,11 +1,19 @@
 ---
 title: "ASA Postdoc Association"
+image: "images/logo.png"
+toc: false
+about:
+  template: jolla
+  image-width: 20em
+  image-shape: rectangle
+  links:
+    - icon: envelope-at-fill
+      text: Email
+      href: mailto:asapostdocs@gmail.com
 ---
 
-Welcome to the [American Statistics Association](<https://www.amstat.org/>) Postdoc Association. 🤗
+Welcome to the [American Statistics Association](https://www.amstat.org/) Postdoc Association. 🤗
 
----
+------------------------------------------------------------------------
 
-We are committed to providing a supportive platform where individuals can flourish intellectually, collaborate passionately, and develop into influential leaders in their respective disciplines. Our [mission](vision.html) is to foster a vibrant community that nurtures the personal and professional growth of postdoctoral fellows in the fields of statistics, biostatistics, and data science. 
-
----
+We are committed to providing a supportive platform where individuals can flourish intellectually, collaborate passionately, and develop into influential leaders in their respective disciplines. Our [mission](vision.html) is to foster a vibrant community that nurtures the personal and professional growth of postdoctoral fellows in the fields of statistics, biostatistics, and data science.
