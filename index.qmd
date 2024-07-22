@@ -17,3 +17,10 @@ Welcome to the [American Statistics Association](https://www.amstat.org/) Postdo
 ------------------------------------------------------------------------
 
 We are committed to providing a supportive platform where individuals can flourish intellectually, collaborate passionately, and develop into influential leaders in their respective disciplines. Our [mission](vision.html) is to foster a vibrant community that nurtures the personal and professional growth of postdoctoral fellows in the fields of statistics, biostatistics, and data science.
+
+------------------------------------------------------------------------
+
+## News
+**Join us at JSM 2024 for info session on August 5th 2024.**
+
+![](images/JSM2024/ASAPA-JSM-Info.png)
