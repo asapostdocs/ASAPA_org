@@ -21,6 +21,11 @@ We are committed to providing a supportive platform where individuals can flouri
 ------------------------------------------------------------------------
 
 ## News
+
+**ASAPA responded to NIH's [Request for Infromation](https://www.federalregister.gov/documents/2024/07/29/2024-16649/request-for-information-rfi-on-recommendations-on-re-envisioning-us-postdoctoral-research-training) on *Re-Envisioning U.S. Postdoctoral Research Training and Career Progression Within the Biomedical Research Enterprise.*** You can find the response [here](blog/respond_nih_rfi/).
+
+------------------------------------------------------------------------
+
 **Join us at JSM 2024 for info session on August 5th 2024.**
 
 ![](images/JSM2024/ASAPA-JSM-Info.png)
